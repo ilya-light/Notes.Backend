@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\C#\\Notes.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5320B864-5A41-4028-A05E-49C8707768C8}|Notes.Domain\\Notes.Domain.csproj|d:\\repos\\c#\\notes.backend\\notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5320B864-5A41-4028-A05E-49C8707768C8}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Domain\\Note.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Note.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Domain\\Note.cs",
+              "RelativeToolTip": "Notes.Domain\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:13:53.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
