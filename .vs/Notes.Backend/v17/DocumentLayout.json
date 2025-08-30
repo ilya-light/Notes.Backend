@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Repos\\C#\\Notes.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5320B864-5A41-4028-A05E-49C8707768C8}|Notes.Domain\\Notes.Domain.csproj|d:\\repos\\c#\\notes.backend\\notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5320B864-5A41-4028-A05E-49C8707768C8}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Note.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Domain\\Note.cs",
-              "RelativeDocumentMoniker": "Notes.Domain\\Note.cs",
-              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Domain\\Note.cs",
-              "RelativeToolTip": "Notes.Domain\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "AssemblyMappingProfile.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T17:13:53.175Z",
+              "WhenOpened": "2025-08-30T18:07:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMapWith.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:04:16.256Z",
               "EditorCaption": ""
             }
           ]
