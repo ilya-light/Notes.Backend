@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "D:\\Repos\\C#\\Notes.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\getnotelistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\getnotelistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\notelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\notelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\getnotelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\getnotelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotedetails\\getnotedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\getnotedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\notelookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\notelookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotedetails\\notedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\notedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotedetails\\getnotedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\getnotedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\commands\\updatenote\\updatenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\updatenote\\updatenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\commands\\deletenote\\deletenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\deletenote\\deletenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\commands\\updatenote\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\updatenote\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\commands\\createnote\\createnotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\createnote\\createnotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\commands\\createnote\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\createnote\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\commands\\deletenote\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\deletenote\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +87,227 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetNoteListQueryHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:46:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetNoteListQuery.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:46:12.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteListVm.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:44:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoteLookupDto.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:39:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetNoteDetailsQueryHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:28:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteDetailsVm.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:22:26.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetNoteDetailsQuery.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:20:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteNoteCommandHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommandHandler.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommandHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:12:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:04:41.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateNoteCommandHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:58:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateNoteCommand.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:55:56.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateNoteCommandHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:44:56.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMapWith.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:04:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteNoteCommand.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommand.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\DeleteNote\\DeleteNoteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:10:57.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateNoteCommand.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:42:58.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Notes.Application",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes.Application.csproj",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+              "RelativeToolTip": "Notes.Application\\Notes.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T08:41:05.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "INotesDbContext.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "RelativeToolTip": "Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:19:16.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AssemblyMappingProfile.cs",
               "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
               "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
@@ -31,19 +316,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T18:07:11.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IMapWith.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:04:16.256Z",
               "EditorCaption": ""
             }
           ]

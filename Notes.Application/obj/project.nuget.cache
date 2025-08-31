@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z2Nngdx7OMo=",
+  "dgSpecHash": "2lasx6Uz+7k=",
   "success": true,
   "projectFilePath": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Администратор\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.8\\microsoft.entityframeworkcore.9.0.8.nupkg.sha512",
     "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.8\\microsoft.entityframeworkcore.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.8\\microsoft.entityframeworkcore.analyzers.9.0.8.nupkg.sha512",
