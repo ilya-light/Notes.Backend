@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\C#\\Notes.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\notelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\notelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\notelookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\notelookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|d:\\repos\\c#\\notes.backend\\notes.application\\notes\\queries\\getnotelist\\getnotelistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082C30EF-C5B4-4F44-8649-66C54CE4E7F6}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\getnotelistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INotesDbContext.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
-              "RelativeToolTip": "Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "DocumentIndex": 0,
+              "Title": "NoteListVm.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:19:16.528Z",
+              "WhenOpened": "2025-08-31T10:03:50.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AssemblyMappingProfile.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
-              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
-              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Title": "NoteLookupDto.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:07:11.992Z",
+              "WhenOpened": "2025-08-31T10:03:45.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IMapWith.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetNoteListQueryHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "ToolTip": "D:\\Repos\\C#\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:04:16.256Z",
+              "WhenOpened": "2025-08-31T09:46:28.79Z",
               "EditorCaption": ""
             }
           ]
